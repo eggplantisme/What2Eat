@@ -3,8 +3,8 @@
 block_cipher = None
 
 
-a = Analysis(['What2Eat.py'],
-             pathex=['D:\\Code\\python\\Interesting'],
+a = Analysis(['D:\\Code\\python\\Interesting\\What2Eat\\What2Eat.py'],
+             pathex=['D:\\Code\\python\\Interesting\\What2Eat'],
              binaries=[],
              datas=[],
              hiddenimports=[],
